@@ -1,0 +1,1 @@
+From the plots we see that feature (a)(area) and feature(b) (aspect ratio)  are best for seperating the two classes.It is easy to see that there are no points running into each other on the top most plot,and also that it has the largest absolute value in terms of the two feature differences,i.e (abs(area - aspect ratio) approx = 0.3).
