@@ -4,7 +4,7 @@
 #Homework 4 "FEATURE COMPUTATION FOR PATTERN RECOGNITION"
 
 ---------------------------------------
-In this folder are the solutions to hw3
+In this folder are the solutions to hw4
 ---------------------------------------
 
 ============
