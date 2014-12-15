@@ -1,7 +1,7 @@
-#Tinashe Matate
-#Image Processing (ImgProc) 
-#Course Fall 2014
-#Homework 4 "FEATURE COMPUTATION FOR PATTERN RECOGNITION"
+Tinashe Matate
+Image Processing (ImgProc) 
+Course Fall 2014
+Homework 4 "FEATURE COMPUTATION FOR PATTERN RECOGNITION"
 
 ---------------------------------------
 In this folder are the solutions to hw4
