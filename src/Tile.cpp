@@ -119,8 +119,8 @@ void Tile::normalized_aspect_ratio(){
 		 	xmin = f.first;
 		 }
 	 }
-	 double w = xmax - xmin;
-	 double h = ymax - ymin;
+	 double w = xmax - xmin + 1;
+	 double h = ymax - ymin + 1;
 	 aspect_ratio = (h > w)?( w / h):( h / w);
 }
 
